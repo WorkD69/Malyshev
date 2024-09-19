@@ -5,3 +5,5 @@ c = a + b
 print(c)
 m = a * b
 print(m)
+w = a // b
+print(w)
