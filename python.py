@@ -3,3 +3,5 @@ a = int(input())
 b = int(input())
 c = a + b
 print(c)
+m = a * b
+print(m)
