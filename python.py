@@ -1,9 +1,9 @@
 print("Введите 2 числа:")
 a = int(input())
 b = int(input())
-c = a + b
+c = a - b
 print(c)
-m = a * b
+m = a // b
 print(m)
-w = a // b
+w = a * b
 print(w)
